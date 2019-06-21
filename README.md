@@ -16,7 +16,6 @@ Você vai precisar:
 
 - Virtualbox - https://www.virtualbox.org/
 - Vagrant - http://www.vagrantup.com/
-- Git - http://git-scm.com ( Opicional )
 - Acesso Internet
 
 
